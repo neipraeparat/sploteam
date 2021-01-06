@@ -23,7 +23,7 @@ header{
 }
 
 .logo {
-
+  cursor: pointer;
 }
 .menu{
   display: flex;
@@ -33,7 +33,6 @@ header{
 
 .menu * {
   border-radius: 8px;
-  cursor: pointer;
 }
 .location{
   position: relative;
@@ -76,6 +75,7 @@ header{
   margin-right: 20px;
   padding: 0px 20px;
   border: 1px solid #FF6620;
+  cursor: pointer;
 }
 
 .menu_btn_reg {  
@@ -85,6 +85,7 @@ header{
   color:#ffffff;
   padding: 0px 20px;
   background: #FF6620;
+  cursor: pointer;
 }
 
 .content {
